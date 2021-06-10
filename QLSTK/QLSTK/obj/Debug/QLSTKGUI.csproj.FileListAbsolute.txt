@@ -1,0 +1,632 @@
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\bin\Debug\QLSTK.exe.config
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\bin\Debug\QLSTK.exe
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\bin\Debug\QLSTK.pdb
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\bin\Debug\QLSTKBUS.dll
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\bin\Debug\QLSTKDTO.dll
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\bin\Debug\QLSTKDAL.dll
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\bin\Debug\QLSTKBUS.pdb
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\bin\Debug\QLSTKDTO.pdb
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\bin\Debug\QLSTKDAL.pdb
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csprojAssemblyReference.cache
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoNgay.resources
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoThang.resources
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.frmLapSoMoi.resources
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.frmMain.resources
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuGuiTien.resources
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuRutTien.resources
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.frmQuyDinh.resources
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.frmTraCuu.resources
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.Properties.Resources.resources
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.GenerateResource.cache
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CoreCompileInputs.cache
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CopyComplete
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.exe
+C:\Users\Linh Satoh\source\repos\QLSTK\QLSTK\obj\Debug\QLSTK.pdb
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\bin\Debug\QLSTK.exe.config
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\bin\Debug\QLSTK.exe
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\bin\Debug\QLSTK.pdb
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKBUS.dll
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKDTO.dll
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKDAL.dll
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKBUS.pdb
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKDTO.pdb
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKDAL.pdb
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csprojAssemblyReference.cache
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoNgay.resources
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmMain.resources
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuGuiTien.resources
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuRutTien.resources
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmQuyDinh.resources
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmTraCuu.resources
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.Properties.Resources.resources
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.GenerateResource.cache
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CoreCompileInputs.cache
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CopyComplete
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.exe
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.pdb
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmQLKH.resources
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmSoTietKiem.resources
+C:\Users\Linh Satoh\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoMoDongSoThang.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTK.exe.config
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTK.exe
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTK.pdb
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKBUS.dll
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKDTO.dll
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKDAL.dll
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKBUS.pdb
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKDTO.pdb
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKDAL.pdb
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csprojAssemblyReference.cache
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoNgay.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoMoDongSoThang.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmSoTietKiem.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmMain.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuGuiTien.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuRutTien.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmQuyDinh.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmTraCuu.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.Properties.Resources.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmQLKH.resources
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.GenerateResource.cache
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CoreCompileInputs.cache
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CopyComplete
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.exe
+C:\Users\Linh Satoh\Documents\GitHub\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.pdb
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTK.exe.config
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTK.exe
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTK.pdb
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKBUS.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKDTO.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKDAL.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKBUS.pdb
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKDTO.pdb
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKDAL.pdb
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoNgay.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoMoDongSoThang.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmHome.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmSoTietKiem.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmMain.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuGuiTien.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuRutTien.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmQuyDinh.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmTraCuu.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmQLKH.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.SplashScreen1.resources
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.exe.licenses
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.exe
+C:\Users\ADMIN\Downloads\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTK.exe.config
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTK.exe
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTK.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKBUS.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKDTO.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKDAL.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKBUS.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKDTO.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\QLSTKDAL.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoNgay.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoMoDongSoThang.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmHome.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmSoTietKiem.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmMain.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuGuiTien.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuRutTien.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmQuyDinh.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmTraCuu.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmQLKH.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.SplashScreen1.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.exe.licenses
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.exe
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem-master\QuanLiSoTietKiem-master\QLSTK\QLSTK\obj\Debug\QLSTK.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTK.exe.config
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTK.exe
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTK.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKBUS.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKDTO.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKDAL.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKBUS.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKDTO.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\QLSTKDAL.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoNgay.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoMoDongSoThang.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmHome.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuGuiTien.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuRutTien.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmQuyDinh.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmSoTietKiem.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmTraCuu.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmQLKH.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.SplashScreen1.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.exe.licenses
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.exe
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.pdb
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTK.frmThongTin.resources
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QuanLiSoTietKiem\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoNgay.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoMoDongSoThang.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmHome.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuGuiTien.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuRutTien.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmQuyDinh.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmSoTietKiem.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmThongTin.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmTraCuu.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.frmQLKH.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.SplashScreen1.resources
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.exe.licenses
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.exe
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTK.pdb
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\QLSTK.exe.config
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\QLSTK.exe
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\QLSTK.pdb
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKBUS.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKDTO.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKDAL.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKBUS.pdb
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKDTO.pdb
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\QLSTKDAL.pdb
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CopyComplete
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTK.exe.config
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTK.exe
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTK.pdb
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKBUS.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKDTO.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKDAL.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKBUS.pdb
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKDTO.pdb
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKDAL.pdb
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csprojAssemblyReference.cache
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoNgay.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoMoDongSoThang.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmHome.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuGuiTien.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuRutTien.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmQuyDinh.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmSoTietKiem.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmThongTin.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmTraCuu.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.Properties.Resources.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmQLKH.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.SplashScreen1.resources
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.exe.licenses
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CopyComplete
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.exe
+C:\Users\User\Downloads\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csprojAssemblyReference.cache
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.ResolveComReference.cache
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoDoanhSoNgay.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmBaoCaoMoDongSoThang.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmHome.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuGuiTien.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmPhieuRutTien.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmQuyDinh.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmSoTietKiem.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmThongTin.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmTraCuu.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.Properties.Resources.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.frmQLKH.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.SplashScreen1.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.GenerateResource.cache
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.exe.licenses
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CoreCompileInputs.cache
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.exe
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTK.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTK.exe.config
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTK.exe
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTK.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\MaterialSkin.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\MaterialSurface.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKBUS.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKDTO.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKDAL.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Images.v19.1.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKBUS.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKDTO.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Data.v19.1.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\QLSTKDAL.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\đồ án\ManagementAccountMoney-master\ManagementAccountMoney-master\QLSTK\QLSTK\obj\Debug\QLSTKGUI.csproj.CopyComplete

@@ -1,0 +1,1 @@
+SQLCMD -NHUNG -E -i createDBQLSTK.sql
